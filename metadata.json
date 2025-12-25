@@ -1,0 +1,7 @@
+{
+  "name": "Tokyo Trip 2026 Master",
+  "description": "A comprehensive travel companion app for a 2026 Tokyo excursion, featuring smart itinerary management, booking countdowns, weather alerts, and essential travel information.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
